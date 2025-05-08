@@ -1,14 +1,16 @@
 <?php
-/*
-Plugin Name: Integrate Gravity Forms + Polylang
-Plugin URI:  https://github.com/pdme/gravity-forms-polylang
-Description: Add form titles, descriptions, field labels, etc, to Polylang string translations
-Version:     0.3
-Author:      Philip Ebels
-Author URI:  https://github.com/pdme
-License:     GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-*/
+/**
+ * Credits to: Philip Ebels as the initial author
+ *
+ * Plugin Name: Integrate Gravity Forms + Polylang
+ * Plugin URI:  https://github.com/JoryHogeveen/gravity-forms-polylang
+ * Description: Add form titles, descriptions, field labels, etc, to Polylang string translations
+ * Version:     0.4
+ * Author:      Jory Hogeveen
+ * Author URI:  https://github.com/JoryHogeveen
+ * License:     GPL2
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ */
 
 if(!defined('ABSPATH')) exit;
 
