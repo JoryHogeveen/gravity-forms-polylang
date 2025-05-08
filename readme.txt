@@ -1,5 +1,5 @@
 === Integrate Gravity Forms + Polylang ===
-Contributors: pdme
+Contributors: keraweb, pdme
 Tags: Gravity Forms, Polylang, multilingual
 Requires at least: 3.0.1
 Tested up to: 4.7
@@ -21,6 +21,7 @@ No installation required.
 
 = 0.4 =
 * Fixed bug that would make input fields from Gravity Forms Add Ons disappear
+* Added checkbox label for consent checkbox compatibility
 
 = 0.3 =
 * Added translation of confirmation message
